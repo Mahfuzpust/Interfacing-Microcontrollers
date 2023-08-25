@@ -1,4 +1,4 @@
 # Microcontroller
 ## LED light
 
-![](images/01.png)
+![](img/01.png)
